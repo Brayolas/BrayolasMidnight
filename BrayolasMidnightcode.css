@@ -185,11 +185,8 @@ path[fill='var(--white-500)'] {
 
 .lookFilled__950dd.colorBrandNew__8872c /* accent buttons */,
 
-/* Iconos Macos
 .lookFilled__950dd.colorGreen__75c93 /* green buttons */,
-/*
 .lookFilled__950dd.colorRed__5a617 /* red buttons */,
-/*
 .lookFilled__950dd.colorYellow__818c3 /* yellow buttons */,
 
 .bar_edc096 /* NEW unread pill */,
@@ -645,6 +642,10 @@ button.button__581d0 /* small buttons */,
 }
 
 /* top bar height */
+/* window controls */
+[class^='winButton'] > svg {
+	display: none;
+}
 [class^='typeWindows'] {
 	height: calc(var(--spacing) + 8px);
 }
