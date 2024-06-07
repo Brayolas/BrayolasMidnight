@@ -642,6 +642,9 @@ button.button__581d0 /* small buttons */,
 }
 
 /* top bar height */
+[class^='typeWindows'] {
+	height: calc(var(--spacing) + 8px);
+}
 /* window controls */
 [class^='winButton'] > svg {
 	display: none;
