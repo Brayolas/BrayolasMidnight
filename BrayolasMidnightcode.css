@@ -62,7 +62,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/e/ea/Bull-horns_-_Lorc_-_white_-_game-icons.svg'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
@@ -182,10 +182,16 @@ path[fill='var(--white-500)'] {
 .endCap__95d53 /* unread divider */,
 .lookFilled__950dd.colorBrand__27d57 /* accent buttons */,
 .lookFilled__950dd.colorBrand__27d57 .defaultColor__77578 /* accent buttons */,
+
 .lookFilled__950dd.colorBrandNew__8872c /* accent buttons */,
+
+/* Iconos Macos
 .lookFilled__950dd.colorGreen__75c93 /* green buttons */,
+/*
 .lookFilled__950dd.colorRed__5a617 /* red buttons */,
+/*
 .lookFilled__950dd.colorYellow__818c3 /* yellow buttons */,
+
 .bar_edc096 /* NEW unread pill */,
 .wrapper__8436d:hover .childWrapper_a6ce15, /* default server icon text */ 
 .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15 /* default server icon text */,
